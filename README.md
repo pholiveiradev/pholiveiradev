@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Pedro Henrique 🖐️
-console.log("Seja bem vindo ao meu github")
+println("Seja bem vindo ao meu github")
 
 ## 
 
