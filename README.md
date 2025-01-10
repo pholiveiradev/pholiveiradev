@@ -1,12 +1,12 @@
 ### Olá! Eu sou o Pedro Henrique 🖐️
-println("Seja bem vindo ao meu github")
+System.out.println("Seja bem vindo ao meu github")
 
 ## 
 
 ### Sobre mim 📚
-- Tenho um compromisso constante em desenvolver produtos web consolidados e iniciais, sempre focado em trabalho em equipe e resultados excepcionais.
+- Tenho um compromisso constante com a criação de produtos web que ofereçam uma excelente experiência ao usuário, além de serem robustos e alinhado aos objetivos do negócio. Valorizo o trabalho em equipe e resultados excepcionais.
 - Graduando em ciência da computação (Unima | Afya).
-- Desenvolvedor Frontend - Estágio.
+- Desenvolvedor Back-end Java
 
 ##
 
